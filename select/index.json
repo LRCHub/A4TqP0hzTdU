@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "デッドウェイト",
+  "base_artist": "Tatsuya Kitani",
+  "createdAt": "2026-02-07T06:21:12.691267Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "デッドウェイト",
+      "artist": "キタニタツヤ",
+      "has_synced": false,
+      "path": "select/01_デッドウェイト_キタニタツヤ.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "デッドウェイト",
+      "artist": "キタニタツヤ",
+      "has_synced": false,
+      "path": "select/pl_01_デッドウェイト_キタニタツヤ.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "デッドウェイト",
+      "artist": "キタニタツヤ",
+      "has_synced": false,
+      "path": "select/pl_02_デッドウェイト_キタニタツヤ.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "デッドウェイト",
+      "artist": "キタニタツヤ",
+      "has_synced": false,
+      "path": "select/pl_03_デッドウェイト_キタニタツヤ.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "デッドウェイト",
+      "artist": "キタニタツヤ",
+      "has_synced": false,
+      "path": "select/pl_04_デッドウェイト_キタニタツヤ.txt"
+    }
+  ]
+}
